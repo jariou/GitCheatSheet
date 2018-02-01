@@ -50,7 +50,7 @@ git log --oneline -n 5
 ## Get log of last 5 commits 
 
 ```
-git log  -n k
+git log  -n 5
 ```
 
 
