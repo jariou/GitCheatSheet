@@ -33,3 +33,24 @@ git reset --hard HEAD
 ```
 git clean -fdx
 ```
+
+## Get log with one line per commit
+
+```
+git log --oneline
+```
+
+
+## Get log with one line per commit and limit to last 5 commits 
+
+```
+git log --oneline -n 5
+```
+
+## Get log of last 5 commits 
+
+```
+git log  -n k
+```
+
+
